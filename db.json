@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "BEYMAR212121",
+      "empresa": "beymarDeveloperFreelancer",
+      "email": "correo@correo.com",
+      "telefono": "65054346",
+      "notas": "solicitud de vbeta",
+      "id": 1
+    },
+    {
+      "nombre": "darkiel",
+      "empresa": "darkielfreelacer",
+      "email": "darlinn_b@hotmail.com",
+      "telefono": "77777777",
+      "notas": "notas deve",
+      "id": 4
+    },
+    {
+      "nombre": "BEYMAR DARLIN",
+      "empresa": "beymarDeveloperFreelancer",
+      "email": "correo@correo.com",
+      "telefono": "65054346",
+      "notas": "solicitud de vbeta",
+      "id": 7
+    },
+    {
+      "nombre": "lalol",
+      "empresa": "darkielman",
+      "email": "darlinnb6@gmail.com",
+      "telefono": "785454545",
+      "notas": "",
+      "id": 9
+    }
+  ]
+}
